@@ -7,9 +7,9 @@ class script(object):
 
     ABOUT_TXT = """<blockquote><b>❍ ᴍʏ ɴᴀᴍᴇ : <a href="http://t.me/Series_Movies_Union_Bot">ғɪʟᴛᴇʀ ʙᴏᴛ</a>
 ❍ ᴄʀᴇᴀᴛᴏʀ : <a href="https://t.me/Union_Owner">ⱬøɽø</a>
-❍ ʟɪʙʀᴀʀʏ : <a href="https://pyrogram.org/">ᴘʏʀᴏɢʀᴀᴍ</a>
-❍ ʟᴀɴɢᴜᴀɢᴇ : <a href="https://www.python.org/">ᴘʏᴛʜᴏɴ</a>
-❍ ᴅᴀᴛᴀʙᴀꜱᴇ : <a href="https://www.mongodb.com/">ᴍᴏɴɢᴏ ᴅʙ</a>
+❍ ᴡᴇʙ sᴇʀɪᴇs: <a href="https://t.me/Series_Union">sᴇʀɪᴇs ᴜɴɪᴏɴ</a>
+❍ ᴍᴏᴠɪᴇs : <a href="https://t.me/Movies_Union">ᴍᴏᴠɪᴇs ᴜɴɪᴏɴ</a>
+❍ ᴍᴏʀᴇ ᴄʜᴀɴɴᴇʟ: <a href="https://t.me/Union_Association">ᴜɴɪᴏɴ ᴛᴇᴀᴍ</a>
 ❍ ʜᴏꜱᴛᴇᴅ ᴏɴ : <a href="https://t.me/Union_Association">ᴠᴘs</a>
 ❍ ʙᴜɪʟᴅ ꜱᴛᴀᴛᴜꜱ : ᴠ3 [ᴀᴅᴠᴀɴᴄᴇ]</blockquote>
 
