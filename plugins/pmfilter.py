@@ -2040,15 +2040,15 @@ async def cb_handler(client: Client, query: CallbackQuery):
     
     elif query.data == "group_info":
         buttons = [[
-            InlineKeyboardButton('× ᴀʟʟ ᴏᴜʀ ʟɪɴᴋꜱ ×', url="https://t.me/nova_flix")
+            InlineKeyboardButton('× ᴀʟʟ ᴏᴜʀ ʟɪɴᴋꜱ ×', url="https://t.me/Union_Association")
        ],[
-            InlineKeyboardButton('• ɢʀᴏᴜᴘ •', url="t.me/movie7xchat"),
-            InlineKeyboardButton('• ᴜᴘᴅᴀᴛᴇs •', url="t.me/codeflix_bots")
+            InlineKeyboardButton('• ɢʀᴏᴜᴘ •', url="t.me/Weebs_Union"),
+            InlineKeyboardButton('• ᴀᴅᴜʟᴛ •', url="t.me/Adult_Union")
        ],[
-            InlineKeyboardButton('• sᴇʀɪᴇsғʟɪx •', url="https://t.me/webseries_flix"),
-            InlineKeyboardButton('• ᴍᴏᴠɪᴇғʟɪx •', url="https://t.me/movieflixspot")
+            InlineKeyboardButton('• sᴇʀɪᴇs •', url="https://t.me/Series_Union"),
+            InlineKeyboardButton('• ᴍᴏᴠɪᴇ•', url="https://t.me/Movies_Union")
        ],[
-            InlineKeyboardButton('• ᴀɴɪᴍᴇ ᴄʀᴜɪsᴇ •', url="https://t.me/Anime_Cruise_Netflix")
+            InlineKeyboardButton('• ᴀɴɪᴍᴇ  •', url="https://t.me/Animes_Union")
        ],[ 
             InlineKeyboardButton('• ʙᴀᴄᴋ •', callback_data='start')
         ]]
