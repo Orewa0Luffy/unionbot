@@ -1,16 +1,16 @@
 class script(object):
-    START_TXT = """<b>ʜᴇʏ {}, {}\n\nɪ ᴀᴍ ᴛʜᴇ ᴍᴏꜱᴛ ᴘᴏᴡᴇʀꜰᴜʟ ᴀᴜᴛᴏ ꜰɪʟᴛᴇʀ ʙᴏᴛ ᴡɪᴛʜ ᴘʀᴇᴍɪᴜᴍ ꜰᴇᴀᴛᴜʀᴇꜱ, ᴊᴜsᴛ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴀɴᴅ ᴇɴᴊᴏʏ!\n\n<blockquote>‣ ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href="https://t.me/codeflix_bots">ʏᴀᴛᴏ</a></blockquote></b>"""
+    START_TXT = """<b>ʜᴇʏ {}, {}\n\nɪ ᴀᴍ ᴛʜᴇ ᴍᴏꜱᴛ ᴘᴏᴡᴇʀꜰᴜʟ ᴀᴜᴛᴏ ꜰɪʟᴛᴇʀ ʙᴏᴛ ᴡɪᴛʜ ᴘʀᴇᴍɪᴜᴍ ꜰᴇᴀᴛᴜʀᴇꜱ, ᴊᴜsᴛ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴀɴᴅ ᴇɴᴊᴏʏ!\n\n<blockquote>‣ ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href="https://t.me/Union_Association">ᴢᴏʀᴏ</a></blockquote></b>"""
 
-    GSTART_TXT = """<b>ʜᴇʏ {}, {}\n\nɪ ᴀᴍ ᴛʜᴇ ᴍᴏꜱᴛ ᴘᴏᴡᴇʀꜰᴜʟ ᴀᴜᴛᴏ ꜰɪʟᴛᴇʀ ʙᴏᴛ ᴡɪᴛʜ ᴘʀᴇᴍɪᴜᴍ ꜰᴇᴀᴛᴜʀᴇꜱ, ᴊᴜsᴛ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴀɴᴅ ᴇɴᴊᴏʏ!\n\n<blockquote>‣ ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href="https://t.me/codeflix_bots">ʏᴀᴛᴏ</a></blockquote></b>"""
+    GSTART_TXT = """<b>ʜᴇʏ {}, {}\n\nɪ ᴀᴍ ᴛʜᴇ ᴍᴏꜱᴛ ᴘᴏᴡᴇʀꜰᴜʟ ᴀᴜᴛᴏ ꜰɪʟᴛᴇʀ ʙᴏᴛ ᴡɪᴛʜ ᴘʀᴇᴍɪᴜᴍ ꜰᴇᴀᴛᴜʀᴇꜱ, ᴊᴜsᴛ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴀɴᴅ ᴇɴᴊᴏʏ!\n\n<blockquote>‣ ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href="https://t.me/Union_Association">ᴢᴏʀᴏ</a></blockquote></b>"""
     
     HELP_TXT = """» ᴡʜᴇʀᴇ ᴅᴏ ʏᴏᴜ ᴡᴀɴᴛ ᴛᴏ ᴏᴘᴇɴ ᴛʜᴇ sᴇᴛᴛɪɴɢs ᴍᴇɴᴜ?."""
 
-    ABOUT_TXT = """<blockquote><b>❍ ᴍʏ ɴᴀᴍᴇ : <a href="https://t.me/Lucy_Filter_bot">ʟᴜᴄʏ ʙᴏᴛ</a>
-❍ ᴄʀᴇᴀᴛᴏʀ : <a href="https://t.me/sewxiy">Subaru</a>
+    ABOUT_TXT = """<blockquote><b>❍ ᴍʏ ɴᴀᴍᴇ : <a href="http://t.me/Series_Movies_Union_Bot">ғɪʟᴛᴇʀ ʙᴏᴛ</a>
+❍ ᴄʀᴇᴀᴛᴏʀ : <a href="https://t.me/Union_Owner">ⱬøɽø</a>
 ❍ ʟɪʙʀᴀʀʏ : <a href="https://pyrogram.org/">ᴘʏʀᴏɢʀᴀᴍ</a>
 ❍ ʟᴀɴɢᴜᴀɢᴇ : <a href="https://www.python.org/">ᴘʏᴛʜᴏɴ</a>
 ❍ ᴅᴀᴛᴀʙᴀꜱᴇ : <a href="https://www.mongodb.com/">ᴍᴏɴɢᴏ ᴅʙ</a>
-❍ ʜᴏꜱᴛᴇᴅ ᴏɴ : <a href="https://t.me/codeflix_bots">ᴠᴘs</a>
+❍ ʜᴏꜱᴛᴇᴅ ᴏɴ : <a href="https://t.me/Union_Association">ᴠᴘs</a>
 ❍ ʙᴜɪʟᴅ ꜱᴛᴀᴛᴜꜱ : ᴠ3 [ᴀᴅᴠᴀɴᴄᴇ]</blockquote>
 
 ➻ ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʙᴜᴛᴛᴏɴs ɢɪᴠᴇɴ ʙᴇʟᴏᴡ ғᴏʀ ɢᴇᴛᴛɪɴɢ ʙᴀsɪᴄ ʜᴇʟᴩ ᴀɴᴅ ɪɴғᴏ ᴀʙᴏᴜᴛ ᴍᴇ.</b>"""
@@ -20,14 +20,14 @@ class script(object):
 """
 
     SUPPORT_TXT = """ᴛʜᴇsᴇ ᴀʀᴇ ᴍʏ sᴜᴘᴘᴏʀᴛ ᴄʜᴀɴɴᴇʟ ᴀɴᴅ ɢʀᴏᴜᴘ. ɪғ ᴀɴʏ ᴘʀᴏʙʟᴇᴍ, ʀᴇᴘᴏʀᴛ ᴛᴏ ᴛʜᴇ ᴀᴅᴍɪɴ
-ᴘᴏᴡᴇʀᴇᴅ ʙʏ - @codeflix_bots"""
+ᴘᴏᴡᴇʀᴇᴅ ʙʏ - @Series_Union"""
         
     HELPS_TXT = """» ᴡʜᴇʀᴇ ᴅᴏ ʏᴏᴜ ᴡᴀɴᴛ ᴛᴏ ᴏᴘᴇɴ ᴛʜᴇ sᴇᴛᴛɪɴɢs ᴍᴇɴᴜ?."""
     
     CHANNELS = """
 <b>๏ ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʙᴜᴛᴛᴏɴs ɢɪᴠᴇɴ ʙᴇʟᴏᴡ ᴛᴏ ᴊᴏɪɴ ᴄʜᴀɴɴᴇʟs ᴀɴᴅ ɢᴇᴛ ᴍᴏʀᴇ ɪɴғᴏʀᴍᴀᴛɪᴏɴ ᴀʙᴏᴜᴛ ᴜs.
 
-ɪғ ʏᴏᴜ ғᴏᴜɴᴅ ᴀɴʏ ʙᴜɢ ɪɴ ˹ʟᴜᴄʏ˼ ᴏʀ ɪғ ʏᴏᴜ ᴡᴀɴɴᴀ ɢɪᴠᴇ ғᴇᴇᴅʙᴀᴄᴋ ᴀʙᴏᴜᴛ ᴛʜᴇ ʙᴏᴛ˼, ᴩʟᴇᴀsᴇ ʀᴇᴩᴏʀᴛ ɪᴛ ᴀᴛ <a href='https://t.me/+DnmZbLjS0iw0YWI1'>sᴜᴩᴩᴏʀᴛ ᴄʜᴀᴛ</a>.</b>"""
+ɪғ ʏᴏᴜ ғᴏᴜɴᴅ ᴀɴʏ ʙᴜɢ ɪɴ ˹ᴢᴏʀᴏ˼ ᴏʀ ɪғ ʏᴏᴜ ᴡᴀɴɴᴀ ɢɪᴠᴇ ғᴇᴇᴅʙᴀᴄᴋ ᴀʙᴏᴜᴛ ᴛʜᴇ ʙᴏᴛ˼, ᴩʟᴇᴀsᴇ ʀᴇᴩᴏʀᴛ ɪᴛ ᴀᴛ <a href='https://t.me/+Series_Union'>sᴜᴩᴩᴏʀᴛ ᴄʜᴀᴛ</a>.</b>"""
 
     
     STATUS_TXT = """<b>╭────[ 🗃 ᴅᴀᴛᴀʙᴀsᴇ 1 🗃 ]────⍟</b>
@@ -39,7 +39,7 @@ class script(object):
 ├⋟ 📽️ ᴜsᴇᴅ sᴛᴏʀᴀɢᴇ ⋟ <code>{}</code>
 ├⋟ 🏷️ ꜰʀᴇᴇ sᴛᴏʀᴀɢᴇ ⋟ <code>{}</code>
 │
-<b>├────[ 🗳 ᴅᴀᴛᴀʙᴀsᴇ 2 🗳 ]────⍟</b>   
+<b>├────[ 🗳 ᴅᴀᴛᴀʙᴀsᴇ 2 🗳 ]────⍟</b>    
 │
 ├⋟ 🎬 ᴀʟʟ ꜰɪʟᴇs ➤ <code>{}</code>
 ├⋟ 🎤 size ➤ <code>{}</code>
@@ -229,7 +229,7 @@ Nᴀᴍᴇ - {}
 
 ›› ꜱᴛᴇᴘ 7 : ᴜꜱᴇ /set_tutorial ᴛᴏ ᴀᴅᴅ ʜᴏᴡ ᴛᴏ ᴅᴏᴡɴʟᴏᴀᴅ ᴠɪᴅᴇᴏ ꜰᴏʀ ʏᴏᴜʀ ꜱʜᴏʀᴛɴᴇʀ ᴡᴇʙꜱɪᴛᴇ.
 
-› ʟɪᴋᴇ ᴛʜɪꜱ :</b> <code>/set_tutorial https://t.me/How_to_Download_7x</code>
+› ʟɪᴋᴇ ᴛʜɪꜱ :</b> <code>/set_tutorial https://t.me/Tutorial_Union</code>
 
 <b>›› ꜱᴛᴇᴘ 8 : ɪꜰ ʏᴏᴜ ᴡᴀɴᴛ ᴛᴏ ᴄʜᴇᴄᴋ ᴡʜɪᴄʜ sʜᴏʀᴛᴇɴᴇʀ ʏᴏᴜ ʜᴀᴠᴇ ᴄᴏɴɴᴇᴄᴛᴇᴅ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴛʜᴇɴ sᴇɴᴅ /shortlink_info ᴄᴏᴍᴍᴀɴᴅ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ.
 
@@ -270,7 +270,7 @@ Nᴀᴍᴇ : {}
 
 Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
     
-    CAPTION = """<b><a href="https://t.me/nova_flix">{file_name}</a></b>\n\n<b><blockquote><i>ᴘʟᴇᴀsᴇ ꜰᴏʀᴡᴀʀᴅ ᴛʜɪs ꜰɪʟᴇs ᴛᴏ ᴛʜᴇ sᴀᴠᴇᴅ ᴍᴇssᴀɢᴇ ᴀɴᴅ ᴄʟᴏsᴇ ᴛʜɪs ᴍᴇssᴀɢᴇ</i></blockquote></b>"""
+    CAPTION = """<b><a href="https://t.me/Series_Union">{file_name}</a></b>\n\n<b><blockquote><i>ᴘʟᴇᴀsᴇ ꜰᴏʀᴡᴀʀᴅ ᴛʜɪs ꜰɪʟᴇs ᴛᴏ ᴛʜᴇ sᴀᴠᴇᴅ ᴍᴇssᴀɢᴇ ᴀɴᴅ ᴄʟᴏsᴇ ᴛʜɪs ᴍᴇssᴀɢᴇ</i></blockquote></b>"""
 
     IMDB_TEMPLATE_TXT = """
 <b>‣ ᴛɪᴛʟᴇ : <a href={url}>{title}</a>
@@ -461,7 +461,7 @@ BOT WORKING PROPERLY"""
 
     SOURCE_TXT ="""<b>sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ: </b>
 
- ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ʜᴇʀᴇ ◉› :<a href=https://github.com/codeflix-bots/autofilter.git>Lucy</a>\n """
+ ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ʜᴇʀᴇ ◉› :<a href=https://t.me/Series_Union>ᴢᴏʀᴏ</a>\n """
 
     EXTRAF_TXT =""" <b> ʜᴇʀᴇ ɪꜱ ᴍʏ ᴇxᴛʀᴀ ꜰᴇᴀᴛᴜʀᴇꜱ </b>"""
 
@@ -562,11 +562,10 @@ exᴀᴍᴘʟᴇ: /mongo ʏᴏᴜʀ_ᴍᴏɴɢᴏᴅʙ_ᴜʀʟ
 
 <b>Nᴏᴛᴇ</b>: ʏᴏᴜ ᴄᴀɴ ᴜꜱᴇ ᴛʜɪꜱ ᴍᴏᴅᴇ ᴛᴏ ᴄʜᴀɴɢᴇ ʏᴏᴜʀ ꜰᴏɴᴛꜱ ꜱᴛʏʟᴇ, ᴊᴜꜱᴛ ꜱᴇɴᴅ ᴍᴇ ʟɪᴋᴇ ᴛʜɪꜱ ꜰᴏʀᴍᴀᴛ. 
 
-<code>/font Subaru</code>"""
+<code>/font Zoro</code>"""
 
     IMAGE_TXT = """
-» ᴀᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅs ꜰᴏʀ image search:
-
+» ᴀᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅs ꜰᴏʀ image 
 ❍ /image: sᴇᴀʀᴄʜ image ᴏғ ᴛʜᴇ ɢɪᴠᴇɴ ᴛᴇxᴛ
 Example:
 
